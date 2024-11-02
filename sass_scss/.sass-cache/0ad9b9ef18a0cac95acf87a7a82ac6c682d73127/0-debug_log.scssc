@@ -1,0 +1,16 @@
+3.7.4
+29865650a2417ae1e381f5b6fc8ed1a8d8aa8044
+o:Sass::Tree::RootNode:@children[o:Sass::Tree::CommentNode:@value[I"B/* A Sass file that prints Hello world in the debug output.*/:ET:
+@type:normal;[:@filename0:@options{:
+@linei:@source_rangeo:Sass::Source::Range	:@start_poso:Sass::Source::Position;i:@offseti:@end_poso;;i;iC:
+@fileI"0-debug_log.scss;	T:@importero: Sass::Importers::Filesystem:
+@rootI"$/alx-frontend-for-fun/sass_scss;	T:@real_rootI"$/alx-frontend-for-fun/sass_scss;	T:@same_name_warningso:Set:
+@hash}Fo:Sass::Tree::VariableNode:
+@nameI"debug-message;	T:
+@expro: Sass::Script::Tree::Literal	;o: Sass::Script::Value::String	;I"Hello world;	T;@;
+:string:"@deprecated_interp_equivalent0;i;o;	;o;;i;i;o;;i;i#;@;@;@:@guarded0:@global0;[;0;@;i;o;	;o;;i;i;o;;i;i#;@;@o:Sass::Tree::DebugNode;o:!Sass::Script::Tree::Variable;I"debug-message;	T:@underscored_nameI"debug_message;	T;i	;o;	;o;;i	;i;o;;i	;i;@;@;@;@;[;0;@;i	;o;	;o;;i	;i;o;;i	;i;@;@;0;@:@templateI"{/* A Sass file that prints Hello world in the debug output.*/
+
+$debug-message: "Hello world";
+@debug $debug-message;
+
+;	T;i;o;	;o;;i;i;o;;i;i;@;@:@has_childrenT
